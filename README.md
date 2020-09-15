@@ -1,10 +1,9 @@
-# Info Rute TJ pada Masa Darurat Pandemi Coronavirus (COVID-19)
+# Info operasional Transjakarta selama PSBB DKI Jakarta
 (Diperbaharui 15 September 2020)
 
-*Pola Operasi berlaku 14-16 September 2020
+<i>Pola Operasi berlaku 14-16 September 2020<i>
 
-## Jam Operasi:
-05.00 - 22.00 WIB  
+Jam Operasi: 05.00 - 22.00 WIB  
   
 ## Rute yang beroperasi
 	 1| Blok M-Kota
