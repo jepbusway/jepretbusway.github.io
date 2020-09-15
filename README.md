@@ -1,7 +1,7 @@
 # Info operasional Transjakarta selama PSBB DKI Jakarta
 (Diperbaharui 15 September 2020)
 
-<i>Pola Operasi berlaku 14-16 September 2020<i>
+<i>Pola Operasi berlaku 14-16 September 2020</i>
 
 Jam Operasi: 05.00 - 22.00 WIB  
   
@@ -57,13 +57,10 @@ Jam Operasi: 05.00 - 22.00 WIB
 	D21| Universitas Indonesia-Lebak Bulus
 	EV1| Terminal Blok M (jalur 4)-Balai Kota
 	BW4| Taman Kota Intan-Museum Bahari
+	Jak Lingko: 69 rute
+	Bus Malam (AMARI): ditiadakan
+	Royaltrans: 1K (Cibubur-Blok M), 6N (Cibubur-Kuningan)
 
-
-Bus Malam (AMARI)	: ditiadakan
-
-Royaltrans		: 1K (Cibubur-Blok M), 6N (Cibubur-Kuningan)
-
-Jak Lingko		: 69 rute
 
 ## Info Tambahan
 Top-up saldo Kartu Uang Elektronik (KUE) melalui loketakan ditiadakan sepenuhnya mulai 24 Maret 2020. Top-up bisa dilakukan di Vending Machine (VM) yang tersedia di halte-halte tertentu.
