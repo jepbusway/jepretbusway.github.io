@@ -3,7 +3,7 @@
 
 <i>Pola Operasi berlaku 14-16 September 2020</i>
 
-Jam Operasi: 05.00 - 22.00 WIB  
+Jam Operasi: 05.00 - 20.00 WIB  
   
 ## Rute yang beroperasi
 	 1| Blok M-Kota
@@ -62,10 +62,9 @@ Jam Operasi: 05.00 - 22.00 WIB
 	Royaltrans: 1K (Cibubur-Blok M), 6N (Cibubur-Kuningan)
 
 
-## Info Tambahan
+### Info Tambahan
 Top-up saldo Kartu Uang Elektronik (KUE) melalui loketakan ditiadakan sepenuhnya mulai 24 Maret 2020. Top-up bisa dilakukan di Vending Machine (VM) yang tersedia di halte-halte tertentu.
 
 Penumpang wajib menggunakan masker ketika ingin menaiki transportasi umum mulai 12 April 2020.
 	
-##
 Rilis info ini berdasarkan edaran yang dibuat PT Transportasi Jakarta melalui Instagram, Twitter, serta [web resmi tanggap COVID-19 Transjakarta](https://covid19.transjakarta.co.id/). Jika terdapat informasi yang salah atau kurang kiranya bisa diberitahukan ke admin melalui [DM Instagram Jepret Busway](https://instagram.com/jepretbusway)
