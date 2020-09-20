@@ -56,7 +56,6 @@ Jam Operasi: 05.00 - 19.00 WIB
 		13E| Puri Beta 2-Halimun
 	D21| Universitas Indonesia-Lebak Bulus
 	EV1| Terminal Blok M (jalur 4)-Balai Kota
-	BW4| Taman Kota Intan-Museum Bahari
 	Jak Lingko: 69 rute
 	Bus Malam (AMARI): ditiadakan
 	Royaltrans: 1K (Cibubur-Blok M), 6N (Cibubur-Kuningan)
