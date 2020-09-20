@@ -1,9 +1,9 @@
 # Info operasional Transjakarta selama PSBB DKI Jakarta
-(Diperbaharui 16 September 2020)
+(Diperbaharui 20 September 2020)
 
-<i>Pola Operasi berlaku 17-20 September 2020</i>
+<i>Pola Operasi berlaku mulai 21 September 2020</i>
 
-Jam Operasi: 05.00 - 20.00 WIB  
+Jam Operasi: 05.00 - 19.00 WIB  
   
 ## Rute yang beroperasi
 	 1| Blok M-Kota
